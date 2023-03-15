@@ -1,0 +1,25 @@
+.fa {
+    font-size: 24px;
+    color:black;
+    }
+
+body {
+    overflow-x: hidden;
+}
+
+.social-icons {
+display: flex;
+justify-content: space-between;
+width: 200px;
+}
+
+.social-icons a {
+margin: 0 5px;
+font-size: 24px;
+}
+
+footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    }
